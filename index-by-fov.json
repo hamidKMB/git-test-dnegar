@@ -1,5 +1,5 @@
 {
-    "time": 1721917444986,
+    "time": 1721999055102,
     "blocks": [
         {
             "id": "B-uuxQug2y",
@@ -10,6 +10,32 @@
             },
             "tunes": {
                 "direction": {}
+            }
+        },
+        {
+            "id": "c4GYvgMeX-",
+            "type": "image",
+            "data": {
+                "file": {
+                    "url": "https://bi-backend-test.liara.run/image/getFile/1721999042206-436599276-download.png"
+                },
+                "caption": "",
+                "withBorder": false,
+                "stretched": false,
+                "withBackground": false
+            }
+        },
+        {
+            "id": "GK3llwfTqU",
+            "type": "image",
+            "data": {
+                "file": {
+                    "url": "https://bi-backend-test.liara.run/image/getFile/1721999045853-339918759-download.png"
+                },
+                "caption": "",
+                "withBorder": false,
+                "stretched": false,
+                "withBackground": false
             }
         }
     ],
