@@ -1,5 +1,5 @@
 {
-    "time": 1721736932756,
+    "time": 1721999577298,
     "blocks": [
         {
             "id": "iaBuq5e09l",
@@ -9,6 +9,20 @@
                 "alignment": "right"
             },
             "tunes": {
+                "direction": {}
+            }
+        },
+        {
+            "id": "dtXpNkKDmh",
+            "type": "header",
+            "data": {
+                "text": "<b>یک عنوان جدید جهت تشکیل حجم زیادی از اطلاعات</b>",
+                "level": 2
+            },
+            "tunes": {
+                "alignment": {
+                    "alignment": "unset"
+                },
                 "direction": {}
             }
         }
