@@ -1,0 +1,17 @@
+{
+    "time": 1726141814980,
+    "blocks": [
+        {
+            "id": "Cd6IPzdSiR",
+            "type": "paragraph",
+            "data": {
+                "text": "Hamid wants to come with Service Worker"
+            },
+            "tunes": {
+                "direction": "dir-ltr",
+                "alignment": {}
+            }
+        }
+    ],
+    "version": "2.30.5"
+}
