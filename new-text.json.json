@@ -1,0 +1,28 @@
+{
+    "time": 1728223753112,
+    "blocks": [
+        {
+            "id": "Cd6IPzdSiR",
+            "type": "paragraph",
+            "data": {
+                "text": "Hamid wants to come with Service Worker"
+            },
+            "tunes": {
+                "direction": "dir-ltr",
+                "alignment": "text-center"
+            }
+        },
+        {
+            "id": "v4OJhW7fQA",
+            "type": "paragraph",
+            "data": {
+                "text": "And i promise one day it changed everything and in that day we all drink to the success that we'll have made in that time <b><mark class=\"cdx-marker\">so wait for that day</mark></b>"
+            },
+            "tunes": {
+                "direction": "dir-ltr",
+                "alignment": {}
+            }
+        }
+    ],
+    "version": "2.30.5"
+}
