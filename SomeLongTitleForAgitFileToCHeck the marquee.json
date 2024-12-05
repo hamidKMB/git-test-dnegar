@@ -1,0 +1,13 @@
+{
+    "time": 1733400346635,
+    "blocks": [
+        {
+            "id": "arc1aeAZP5",
+            "type": "ide",
+            "data": {
+                "code": "function sum(a, b) {\r\n    return a + b\r\n}\r\n\r\nsum(1, 2)"
+            }
+        }
+    ],
+    "version": "2.30.5"
+}
