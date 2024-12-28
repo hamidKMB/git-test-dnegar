@@ -1,0 +1,17 @@
+{
+    "time": 1735400970754,
+    "blocks": [
+        {
+            "id": "00gNVNQ3w1",
+            "type": "paragraph",
+            "data": {
+                "text": "New Document"
+            },
+            "tunes": {
+                "direction": {},
+                "alignment": {}
+            }
+        }
+    ],
+    "version": "2.30.5"
+}
