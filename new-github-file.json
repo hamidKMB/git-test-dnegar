@@ -1,0 +1,17 @@
+{
+    "time": 1735631784439,
+    "blocks": [
+        {
+            "id": "BCBIIQ0O20",
+            "type": "paragraph",
+            "data": {
+                "text": "Some new git notebook"
+            },
+            "tunes": {
+                "direction": {},
+                "alignment": {}
+            }
+        }
+    ],
+    "version": "2.30.5"
+}
