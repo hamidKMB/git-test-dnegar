@@ -1,0 +1,17 @@
+{
+    "time": 1735717233255,
+    "blocks": [
+        {
+            "id": "nRyiUqF9pO",
+            "type": "paragraph",
+            "data": {
+                "text": "Some new Title inside this picture"
+            },
+            "tunes": {
+                "direction": {},
+                "alignment": {}
+            }
+        }
+    ],
+    "version": "2.30.5"
+}
